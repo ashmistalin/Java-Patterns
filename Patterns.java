@@ -14,3 +14,12 @@ public class Patterns {
         }
     }
 }
+
+Main Function:
+
+public class Main {
+    public static void main(String[] args) {
+        Patterns pat2=new Patterns();
+       pat2.patternsforjava();
+    }
+}
