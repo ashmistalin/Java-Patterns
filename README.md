@@ -2,11 +2,12 @@
 Ashmi S
 
 ## 1)Print the pattern:
+```
 *****
 *****
 *****
 *****
-
+```
 ## Coding:
 
 ```
